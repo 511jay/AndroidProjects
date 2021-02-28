@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    android:background="#0A1B2A">
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center|top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:background="@drawable/edge2"
+            android:layout_marginTop="100dp"
+            android:padding="10dp"
+            android:textSize="40sp"
+            android:text="Spell Checker v1.0"
+            android:textColor="#DBA901"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_marginTop="30dp"
+            android:textSize="20sp"
+            android:text="made by 흔공생"
+            android:textColor="#DBA901"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/start"
+            android:layout_marginTop="150dp"
+            android:text="시작하기"
+            android:textColor="#DBA901"
+            android:background="@drawable/edge2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/go_menu"
+            android:layout_marginTop="40dp"
+            android:text="사용 방법"
+            android:textColor="#DBA901"
+            android:background="@drawable/edge2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
