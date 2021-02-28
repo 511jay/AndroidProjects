@@ -1,0 +1,2 @@
+include ':app', ':part8'
+rootProject.name='loltest'

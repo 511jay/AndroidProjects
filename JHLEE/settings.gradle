@@ -1,0 +1,2 @@
+include ':app', ':lololol', ':lolol'
+rootProject.name='JHLEE'

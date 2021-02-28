@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302791268152",
+    "firebase_url": "https://jung-5eaa7.firebaseio.com",
+    "project_id": "jung-5eaa7",
+    "storage_bucket": "jung-5eaa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302791268152:android:d9bc0926697218b51753cd",
+        "android_client_info": {
+          "package_name": "com.example.petcarebone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302791268152-dap44e1hjo5b0d2qp0n02htnrhhe50pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petcarebone",
+            "certificate_hash": "7ee3189c4401412a4f1c119991683445d37a0507"
+          }
+        },
+        {
+          "client_id": "302791268152-vqpc58djt4vik8f2mj3ll4rkababeljb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qG6NN_d0qcjS820DuCERdajofoXRFyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302791268152-vqpc58djt4vik8f2mj3ll4rkababeljb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

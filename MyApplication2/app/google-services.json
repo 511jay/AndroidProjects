@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767973908832",
+    "firebase_url": "https://myapplication2-945e3.firebaseio.com",
+    "project_id": "myapplication2-945e3",
+    "storage_bucket": "myapplication2-945e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767973908832:android:43ba51aef9bbb07595be05",
+        "android_client_info": {
+          "package_name": "com.JHLEE.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767973908832-bf282ut7o3kdl92fmf3qnvkopmtsqcin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAshbQac2A1eMjIyBKlQkyXcYCi5MVWpyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767973908832-bf282ut7o3kdl92fmf3qnvkopmtsqcin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
